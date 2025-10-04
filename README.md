@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💻 I'm currently working on developing myself and building projects that are useful for the modern world.  <br>- 🤝 I'm looking to collaborate on open-source ML tools and beginner-friendly AI projects.  <br>- 🙋‍♂️ I'm looking for help with improving my deep learning skills and deploying AI applications.  <br>- 📚 I'm currently learning advanced Python, generative AI, agentic AI, and MLOps basics.  <br>- 💬 Ask me about electrical systems, industrial automation, or getting started with AI/ML.  <br>- 🎉 Fun fact: I once debugged a Python script for 4 hours only to realize I missed a single colon!  <br>
+- 💻 I'm currently working on developing myself and building AI/ML projects that are useful for the modern world.  <br>- 🤝 I'm looking to collaborate on open-source ML tools and beginner-friendly AI projects.  <br>- 🙋‍♂️ I'm looking for help with improving my deep learning skills and deploying AI applications.  <br>- 📚 I'm currently learning advanced Python, generative AI, agentic AI, and MLOps basics.  <br>- 💬 Ask me about electrical systems, industrial automation, or getting started with AI/ML.  <br>- 🎉 Fun fact: I once debugged a Python script for 4 hours only to realize I missed a single colon!  <br>
 
 
 ## 🌐 Socials:
